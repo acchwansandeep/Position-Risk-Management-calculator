@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://acchwansandeep.github.io/Position-Risk-Management-calculator/sitemap.xml
